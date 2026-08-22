@@ -97,7 +97,7 @@
                 "last_commit": "2026-08-20T18:28:18Z",
                 "owner": "oblador",
                 "repo": "react-native-vector-icons",
-                "stars": 17906
+                "stars": 17908
               }
             },
             {
@@ -112,7 +112,7 @@
                 "last_commit": "2026-08-17T19:26:48Z",
                 "owner": "lottie-react-native",
                 "repo": "lottie-react-native",
-                "stars": 17202
+                "stars": 17203
               }
             },
             {
@@ -139,10 +139,10 @@
                 "archived": false,
                 "id": 71323749,
                 "language": "TypeScript",
-                "last_commit": "2026-08-13T16:02:36Z",
+                "last_commit": "2026-08-21T13:54:36Z",
                 "owner": "callstack",
                 "repo": "react-native-paper",
-                "stars": 14445
+                "stars": 14446
               }
             },
             {
@@ -157,7 +157,7 @@
                 "last_commit": "2026-08-11T17:40:19Z",
                 "owner": "FaridSafi",
                 "repo": "react-native-gifted-chat",
-                "stars": 14441
+                "stars": 14443
               }
             },
             {
@@ -172,7 +172,7 @@
                 "last_commit": "2026-08-07T19:44:24Z",
                 "owner": "akveo",
                 "repo": "react-native-ui-kitten",
-                "stars": 10673
+                "stars": 10672
               }
             },
             {
@@ -217,7 +217,7 @@
                 "last_commit": "2026-04-23T05:51:55Z",
                 "owner": "wix",
                 "repo": "react-native-calendars",
-                "stars": 10308
+                "stars": 10309
               }
             },
             {
@@ -292,7 +292,7 @@
                 "last_commit": "2026-01-21T23:31:48Z",
                 "owner": "ivpusic",
                 "repo": "react-native-image-crop-picker",
-                "stars": 6349
+                "stars": 6350
               }
             },
             {
@@ -337,7 +337,7 @@
                 "last_commit": "2025-03-16T06:14:10Z",
                 "owner": "Flipkart",
                 "repo": "recyclerlistview",
-                "stars": 5437
+                "stars": 5436
               }
             },
             {
@@ -712,7 +712,7 @@
                 "last_commit": "2026-03-19T11:03:16Z",
                 "owner": "mrousavy",
                 "repo": "react-native-blurhash",
-                "stars": 2233
+                "stars": 2234
               }
             },
             {
@@ -1027,7 +1027,7 @@
                 "last_commit": "2026-07-23T13:59:57Z",
                 "owner": "instea",
                 "repo": "react-native-popup-menu",
-                "stars": 1557
+                "stars": 1558
               }
             },
             {
@@ -1222,7 +1222,7 @@
                 "last_commit": "2023-06-09T06:21:16Z",
                 "owner": "taskrabbit",
                 "repo": "react-native-parsed-text",
-                "stars": 1249
+                "stars": 1250
               }
             },
             {
@@ -1417,7 +1417,7 @@
                 "last_commit": "2023-02-17T14:30:23Z",
                 "owner": "bamlab",
                 "repo": "react-native-image-header-scroll-view",
-                "stars": 1025
+                "stars": 1024
               }
             },
             {
@@ -1444,7 +1444,7 @@
                 "archived": false,
                 "id": 94996777,
                 "language": "Objective-C",
-                "last_commit": "2026-08-15T00:05:15Z",
+                "last_commit": "2026-08-22T00:05:37Z",
                 "owner": "douglasjunior",
                 "repo": "react-native-keyboard-manager",
                 "stars": 1004
@@ -1492,7 +1492,7 @@
                 "last_commit": "2023-01-17T08:00:13Z",
                 "owner": "octopitus",
                 "repo": "rn-sliding-up-panel",
-                "stars": 923
+                "stars": 922
               }
             },
             {
@@ -2194,10 +2194,10 @@
                 "archived": false,
                 "id": 94703864,
                 "language": "TypeScript",
-                "last_commit": "2026-08-15T01:03:10Z",
+                "last_commit": "2026-08-22T01:02:46Z",
                 "owner": "douglasjunior",
                 "repo": "react-native-simple-dialogs",
-                "stars": 472
+                "stars": 471
               }
             },
             {
@@ -3187,7 +3187,7 @@
                 "last_commit": "2021-07-03T10:03:40Z",
                 "owner": "prscX",
                 "repo": "react-native-iconic",
-                "stars": 222
+                "stars": 221
               }
             },
             {
@@ -6644,7 +6644,7 @@
                 "last_commit": "2026-08-19T17:54:28Z",
                 "owner": "react-navigation",
                 "repo": "react-navigation",
-                "stars": 24489
+                "stars": 24492
               }
             },
             {
@@ -7662,7 +7662,7 @@
                 "last_commit": "2026-06-16T16:59:49Z",
                 "owner": "wix",
                 "repo": "Detox",
-                "stars": 12008
+                "stars": 12011
               }
             },
             {
@@ -7677,7 +7677,7 @@
                 "last_commit": "2024-10-12T05:41:37Z",
                 "owner": "oblador",
                 "repo": "loki",
-                "stars": 1908
+                "stars": 1909
               }
             },
             {
@@ -7707,7 +7707,7 @@
                 "last_commit": "2026-06-11T15:26:04Z",
                 "owner": "alexbrazier",
                 "repo": "react-native-network-logger",
-                "stars": 685
+                "stars": 686
               }
             },
             {
@@ -8281,10 +8281,10 @@
                 "archived": false,
                 "id": 174038031,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T00:24:02Z",
+                "last_commit": "2026-08-21T22:53:56Z",
                 "owner": "react-hook-form",
                 "repo": "react-hook-form",
-                "stars": 44824
+                "stars": 44825
               }
             },
             {
@@ -8296,10 +8296,10 @@
                 "archived": false,
                 "id": 174038031,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T00:24:02Z",
+                "last_commit": "2026-08-21T22:53:56Z",
                 "owner": "react-hook-form",
                 "repo": "react-hook-form",
-                "stars": 44824
+                "stars": 44825
               }
             },
             {
@@ -8314,7 +8314,7 @@
                 "last_commit": "2025-11-10T17:02:06Z",
                 "owner": "jaredpalmer",
                 "repo": "formik",
-                "stars": 34325
+                "stars": 34327
               }
             },
             {
@@ -8531,7 +8531,7 @@
                 "last_commit": "2026-08-14T14:04:56Z",
                 "owner": "transistorsoft",
                 "repo": "react-native-background-geolocation",
-                "stars": 2914
+                "stars": 2915
               }
             },
             {
@@ -8546,7 +8546,7 @@
                 "last_commit": "2024-08-20T03:31:58Z",
                 "owner": "mauron85",
                 "repo": "react-native-background-geolocation",
-                "stars": 1355
+                "stars": 1354
               }
             },
             {
@@ -8673,7 +8673,7 @@
                 "last_commit": "2024-11-14T00:04:17Z",
                 "owner": "facebook",
                 "repo": "fbt",
-                "stars": 3880
+                "stars": 3881
               }
             },
             {
@@ -8800,7 +8800,7 @@
                 "last_commit": "2026-08-13T22:50:44Z",
                 "owner": "infinitered",
                 "repo": "reactotron",
-                "stars": 15579
+                "stars": 15580
               }
             },
             {
@@ -9002,7 +9002,7 @@
                 "last_commit": "2026-08-17T17:53:56Z",
                 "owner": "styled-components",
                 "repo": "styled-components",
-                "stars": 41119
+                "stars": 41121
               }
             },
             {
@@ -9017,7 +9017,7 @@
                 "last_commit": "2026-05-06T07:42:22Z",
                 "owner": "emotion-js",
                 "repo": "emotion",
-                "stars": 18015
+                "stars": 18016
               }
             },
             {
@@ -9231,7 +9231,7 @@
                 "archived": false,
                 "id": 80616041,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T22:55:41Z",
+                "last_commit": "2026-08-21T12:09:57Z",
                 "owner": "invertase",
                 "repo": "react-native-firebase",
                 "stars": 12300
@@ -9309,7 +9309,7 @@
                 "last_commit": "2026-07-23T17:53:30Z",
                 "owner": "zoontek",
                 "repo": "react-native-permissions",
-                "stars": 4377
+                "stars": 4378
               }
             },
             {
@@ -9324,7 +9324,7 @@
                 "last_commit": "2026-04-29T12:37:22Z",
                 "owner": "oblador",
                 "repo": "react-native-keychain",
-                "stars": 3471
+                "stars": 3472
               }
             },
             {
@@ -9411,10 +9411,10 @@
                 "archived": false,
                 "id": 47111230,
                 "language": "Java",
-                "last_commit": "2026-08-08T03:39:46Z",
+                "last_commit": "2026-08-22T00:21:50Z",
                 "owner": "bamlab",
                 "repo": "react-native-image-resizer",
-                "stars": 1661
+                "stars": 1660
               }
             },
             {
@@ -9429,7 +9429,7 @@
                 "last_commit": "2026-04-22T13:25:52Z",
                 "owner": "transistorsoft",
                 "repo": "react-native-background-fetch",
-                "stars": 1610
+                "stars": 1609
               }
             },
             {
@@ -9444,7 +9444,7 @@
                 "last_commit": "2026-08-20T22:17:35Z",
                 "owner": "OneSignal",
                 "repo": "react-native-onesignal",
-                "stars": 1595
+                "stars": 1593
               }
             },
             {
@@ -10688,7 +10688,7 @@
                 "last_commit": "2023-06-07T10:03:10Z",
                 "owner": "react-native-camera",
                 "repo": "react-native-camera",
-                "stars": 9628
+                "stars": 9629
               }
             },
             {
@@ -10748,7 +10748,7 @@
                 "last_commit": "2026-08-03T22:12:29Z",
                 "owner": "teslamotors",
                 "repo": "react-native-camera-kit",
-                "stars": 2703
+                "stars": 2704
               }
             },
             {
@@ -11247,10 +11247,10 @@
                 "archived": false,
                 "id": 75425073,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T00:59:33Z",
+                "last_commit": "2026-08-21T16:31:56Z",
                 "owner": "pubkey",
                 "repo": "rxdb",
-                "stars": 23355
+                "stars": 23357
               }
             },
             {
@@ -11265,7 +11265,7 @@
                 "last_commit": "2025-08-11T12:09:31Z",
                 "owner": "Nozbe",
                 "repo": "WatermelonDB",
-                "stars": 11774
+                "stars": 11772
               }
             },
             {
@@ -11969,7 +11969,7 @@
                 "last_commit": "2023-01-04T11:39:39Z",
                 "owner": "yorkie",
                 "repo": "react-native-wechat",
-                "stars": 2903
+                "stars": 2902
               }
             },
             {
@@ -12194,7 +12194,7 @@
                 "last_commit": "2023-08-14T09:05:41Z",
                 "owner": "hoxfon",
                 "repo": "react-native-twilio-programmable-voice",
-                "stars": 188
+                "stars": 189
               }
             },
             {
@@ -12880,7 +12880,7 @@
                 "archived": false,
                 "id": 130961487,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T22:40:57Z",
+                "last_commit": "2026-08-21T22:19:37Z",
                 "owner": "software-mansion",
                 "repo": "react-native-reanimated",
                 "stars": 10957
@@ -12898,7 +12898,7 @@
                 "last_commit": "2023-10-26T16:46:05Z",
                 "owner": "oblador",
                 "repo": "react-native-animatable",
-                "stars": 9937
+                "stars": 9936
               }
             },
             {
@@ -13077,7 +13077,7 @@
                 "last_commit": "2025-10-16T15:10:21Z",
                 "owner": "necolas",
                 "repo": "react-native-web",
-                "stars": 22140
+                "stars": 22141
               }
             },
             {
@@ -13089,10 +13089,10 @@
                 "archived": false,
                 "id": 48009214,
                 "language": "C++",
-                "last_commit": "2026-08-21T02:12:04Z",
+                "last_commit": "2026-08-22T01:48:15Z",
                 "owner": "microsoft",
                 "repo": "react-native-windows",
-                "stars": 17324
+                "stars": 17325
               }
             },
             {
@@ -13178,7 +13178,7 @@
             "last_commit": "2026-07-23T03:30:35Z",
             "owner": "react-native-community",
             "repo": "upgrade-helper",
-            "stars": 4062
+            "stars": 4061
           }
         },
         {
@@ -13499,7 +13499,7 @@
             "last_commit": "2026-06-07T01:18:58Z",
             "owner": "infinitered",
             "repo": "ignite",
-            "stars": 19930
+            "stars": 19931
           }
         },
         {
@@ -13514,7 +13514,7 @@
             "last_commit": "2026-06-30T10:48:00Z",
             "owner": "thecodingmachine",
             "repo": "react-native-boilerplate",
-            "stars": 5562
+            "stars": 5564
           }
         },
         {
@@ -14060,7 +14060,7 @@
             "last_commit": "2026-05-21T14:17:40Z",
             "owner": "react-native-elements",
             "repo": "react-native-elements",
-            "stars": 25860
+            "stars": 25863
           }
         },
         {
@@ -14072,7 +14072,7 @@
             "archived": false,
             "id": 65215684,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T10:13:07Z",
+            "last_commit": "2026-08-21T09:18:52Z",
             "owner": "shoutem",
             "repo": "ui",
             "stars": 4977
@@ -14168,10 +14168,10 @@
             "archived": false,
             "id": 79162682,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T01:25:26Z",
+            "last_commit": "2026-08-21T22:00:29Z",
             "owner": "laurent22",
             "repo": "joplin",
-            "stars": 56030
+            "stars": 56045
           }
         },
         {
@@ -14258,7 +14258,7 @@
             "archived": false,
             "id": 29702213,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T16:43:18Z",
+            "last_commit": "2026-08-21T19:08:31Z",
             "owner": "artsy",
             "repo": "eigen",
             "stars": 3775
@@ -14318,7 +14318,7 @@
             "archived": false,
             "id": 99262683,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T01:19:28Z",
+            "last_commit": "2026-08-21T20:39:48Z",
             "owner": "RocketChat",
             "repo": "Rocket.Chat.ReactNative",
             "stars": 2412
@@ -14336,7 +14336,7 @@
             "last_commit": "2024-06-30T23:17:05Z",
             "owner": "Flaque",
             "repo": "quirk",
-            "stars": 2272
+            "stars": 2273
           }
         },
         {
@@ -15812,7 +15812,7 @@
             "last_commit": "2026-01-31T17:46:33Z",
             "owner": "GeekyAnts",
             "repo": "NativeBase",
-            "stars": 20387
+            "stars": 20386
           }
         },
         {
@@ -15941,10 +15941,10 @@
             "archived": false,
             "id": 29028775,
             "language": "C++",
-            "last_commit": "2026-08-20T22:03:07Z",
+            "last_commit": "2026-08-21T21:45:14Z",
             "owner": "react",
             "repo": "react-native",
-            "stars": 126370
+            "stars": 126387
           }
         },
         {
@@ -15982,7 +15982,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T02:36:22.749Z",
+    "last_updated": "2026-08-22T02:20:38.518Z",
     "original_repository": "jondot/awesome-react-native",
     "original_repository_id": 32948863,
     "original_repository_sha": "23100d54f6ef1cbdf56d4983dde8fe97cbe26c76",
