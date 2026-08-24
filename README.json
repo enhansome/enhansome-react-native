@@ -7,6 +7,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "React Native Styling Cheatsheet ★2679",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65492963,
+                "language": null,
+                "last_commit": "2022-12-12T17:19:33Z",
+                "owner": "vhpoet",
+                "repo": "react-native-styling-cheat-sheet",
+                "stars": 4957
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Reference"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "How to add Firebase Auth with React Native ★4",
               "description": null,
               "children": [],
@@ -76,6 +98,28 @@
           "description": null,
           "node_type": "group",
           "title": "Assorted"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Distributing beta builds with Fastlane on Android and iOS",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 148149670,
+                "language": "TypeScript",
+                "last_commit": "2026-06-30T10:48:00Z",
+                "owner": "thecodingmachine",
+                "repo": "react-native-boilerplate",
+                "stars": 5564
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Continuous Integration"
         }
       ],
       "title": "Articles"
@@ -139,10 +183,10 @@
                 "archived": false,
                 "id": 71323749,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T13:54:36Z",
+                "last_commit": "2026-08-24T12:31:03Z",
                 "owner": "callstack",
                 "repo": "react-native-paper",
-                "stars": 14448
+                "stars": 14449
               }
             },
             {
@@ -157,7 +201,7 @@
                 "last_commit": "2026-08-11T17:40:19Z",
                 "owner": "FaridSafi",
                 "repo": "react-native-gifted-chat",
-                "stars": 14443
+                "stars": 14442
               }
             },
             {
@@ -262,7 +306,7 @@
                 "last_commit": "2026-08-20T08:28:01Z",
                 "owner": "software-mansion",
                 "repo": "react-native-svg",
-                "stars": 8000
+                "stars": 8001
               }
             },
             {
@@ -277,7 +321,7 @@
                 "last_commit": "2024-06-23T08:18:54Z",
                 "owner": "ptomasroos",
                 "repo": "react-native-scrollable-tab-view",
-                "stars": 6946
+                "stars": 6947
               }
             },
             {
@@ -562,7 +606,7 @@
                 "last_commit": "2023-02-26T09:04:59Z",
                 "owner": "mastermoo",
                 "repo": "react-native-action-button",
-                "stars": 2518
+                "stars": 2517
               }
             },
             {
@@ -577,7 +621,7 @@
                 "last_commit": "2025-06-05T18:28:03Z",
                 "owner": "henninghall",
                 "repo": "react-native-date-picker",
-                "stars": 2505
+                "stars": 2506
               }
             },
             {
@@ -1519,7 +1563,7 @@
                 "archived": false,
                 "id": 52279702,
                 "language": "TypeScript",
-                "last_commit": "2026-08-10T23:14:22Z",
+                "last_commit": "2026-08-24T08:54:51Z",
                 "owner": "byteburgers",
                 "repo": "react-native-autocomplete-input",
                 "stars": 871
@@ -6659,7 +6703,22 @@
                 "last_commit": "2026-08-02T10:56:50Z",
                 "owner": "wix",
                 "repo": "react-native-navigation",
-                "stars": 13175
+                "stars": 13176
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-native-navigation-hooks ★109",
+              "description": "A set of React hooks for React Native Navigation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 191070027,
+                "language": "TypeScript",
+                "last_commit": "2023-12-20T12:42:52Z",
+                "owner": "Nubescope",
+                "repo": "react-native-navigation-hooks",
+                "stars": 254
               }
             },
             {
@@ -7161,6 +7220,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "NavigatorIOS: Accessing onRightButtonPress from within child component",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 29028775,
+                    "language": "C++",
+                    "last_commit": "2026-08-24T13:45:03Z",
+                    "owner": "react",
+                    "repo": "react-native",
+                    "stars": 126405
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Navigation/Routing Articles"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "movieapp ★1441",
                   "description": "Discover Movies and TV shows - it uses redux and wix/react-native-navigation",
                   "children": [],
@@ -7213,6 +7294,28 @@
           "description": null,
           "node_type": "group",
           "title": "Navigation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "react-native-deep-link ★36",
+              "description": "React Native library to handle deep links",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115999709,
+                "language": "JavaScript",
+                "last_commit": "2019-03-16T18:32:31Z",
+                "owner": "Starotitorov",
+                "repo": "react-native-deep-link",
+                "stars": 147
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Deep Linking"
         },
         {
           "children": [
@@ -7659,10 +7762,10 @@
                 "archived": false,
                 "id": 61204547,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T22:08:31Z",
+                "last_commit": "2026-08-24T09:41:49Z",
                 "owner": "wix",
                 "repo": "Detox",
-                "stars": 12011
+                "stars": 12012
               }
             },
             {
@@ -8284,7 +8387,7 @@
                 "last_commit": "2026-08-23T21:17:14Z",
                 "owner": "react-hook-form",
                 "repo": "react-hook-form",
-                "stars": 44827
+                "stars": 44829
               }
             },
             {
@@ -8299,7 +8402,7 @@
                 "last_commit": "2026-08-23T21:17:14Z",
                 "owner": "react-hook-form",
                 "repo": "react-hook-form",
-                "stars": 44827
+                "stars": 44829
               }
             },
             {
@@ -8314,7 +8417,7 @@
                 "last_commit": "2025-11-10T17:02:06Z",
                 "owner": "jaredpalmer",
                 "repo": "formik",
-                "stars": 34329
+                "stars": 34330
               }
             },
             {
@@ -8693,8 +8796,8 @@
             },
             {
               "node_type": "item",
-              "title": "react-native-languages ★246 - React Native properties and methods related to the language of the device Now called react-native-localize",
-              "description": null,
+              "title": "react-native-languages ★246 - React Native properties and methods related to the language of the device",
+              "description": "Now called react-native-localize",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8708,8 +8811,8 @@
             },
             {
               "node_type": "item",
-              "title": "react-native-i18n ★1778 - React Native + i18n.js Deprecated for react-native-localize",
-              "description": null,
+              "title": "react-native-i18n ★1778 - React Native + i18n.js",
+              "description": "Deprecated for react-native-localize",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8800,7 +8903,7 @@
                 "last_commit": "2026-08-13T22:50:44Z",
                 "owner": "infinitered",
                 "repo": "reactotron",
-                "stars": 15581
+                "stars": 15580
               }
             },
             {
@@ -9002,7 +9105,7 @@
                 "last_commit": "2026-08-17T17:53:56Z",
                 "owner": "styled-components",
                 "repo": "styled-components",
-                "stars": 41120
+                "stars": 41121
               }
             },
             {
@@ -9231,10 +9334,10 @@
                 "archived": false,
                 "id": 80616041,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T15:54:27Z",
+                "last_commit": "2026-08-24T13:41:14Z",
                 "owner": "invertase",
                 "repo": "react-native-firebase",
-                "stars": 12300
+                "stars": 12301
               }
             },
             {
@@ -9291,7 +9394,7 @@
                 "archived": false,
                 "id": 52316423,
                 "language": "Java",
-                "last_commit": "2026-01-21T23:30:58Z",
+                "last_commit": "2026-08-24T13:37:40Z",
                 "owner": "react-native-config",
                 "repo": "react-native-config",
                 "stars": 4957
@@ -9489,7 +9592,7 @@
                 "last_commit": "2026-06-10T17:33:42Z",
                 "owner": "mkuczera",
                 "repo": "react-native-haptic-feedback",
-                "stars": 977
+                "stars": 978
               }
             },
             {
@@ -11250,7 +11353,7 @@
                 "last_commit": "2026-08-24T02:00:32Z",
                 "owner": "pubkey",
                 "repo": "rxdb",
-                "stars": 23361
+                "stars": 23362
               }
             },
             {
@@ -12880,10 +12983,10 @@
                 "archived": false,
                 "id": 130961487,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T10:05:46Z",
+                "last_commit": "2026-08-24T11:26:31Z",
                 "owner": "software-mansion",
                 "repo": "react-native-reanimated",
-                "stars": 10961
+                "stars": 10963
               }
             },
             {
@@ -13077,7 +13180,7 @@
                 "last_commit": "2025-10-16T15:10:21Z",
                 "owner": "necolas",
                 "repo": "react-native-web",
-                "stars": 22141
+                "stars": 22142
               }
             },
             {
@@ -13089,7 +13192,7 @@
                 "archived": false,
                 "id": 48009214,
                 "language": "C++",
-                "last_commit": "2026-08-24T00:28:03Z",
+                "last_commit": "2026-08-24T08:36:38Z",
                 "owner": "microsoft",
                 "repo": "react-native-windows",
                 "stars": 17328
@@ -13499,7 +13602,7 @@
             "last_commit": "2026-06-07T01:18:58Z",
             "owner": "infinitered",
             "repo": "ignite",
-            "stars": 19934
+            "stars": 19933
           }
         },
         {
@@ -14168,10 +14271,10 @@
             "archived": false,
             "id": 79162682,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T21:58:30Z",
+            "last_commit": "2026-08-24T13:25:58Z",
             "owner": "laurent22",
             "repo": "joplin",
-            "stars": 56070
+            "stars": 56082
           }
         },
         {
@@ -14258,7 +14361,7 @@
             "archived": false,
             "id": 29702213,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T05:15:39Z",
+            "last_commit": "2026-08-24T12:34:28Z",
             "owner": "artsy",
             "repo": "eigen",
             "stars": 3775
@@ -14318,7 +14421,7 @@
             "archived": false,
             "id": 99262683,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T15:27:21Z",
+            "last_commit": "2026-08-24T13:14:39Z",
             "owner": "RocketChat",
             "repo": "Rocket.Chat.ReactNative",
             "stars": 2412
@@ -15812,7 +15915,7 @@
             "last_commit": "2026-01-31T17:46:33Z",
             "owner": "GeekyAnts",
             "repo": "NativeBase",
-            "stars": 20386
+            "stars": 20385
           }
         },
         {
@@ -15930,6 +16033,56 @@
       "title": "Tutorials"
     },
     {
+      "description": "Assortment of conference and training videos.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "awesome-react-native-talks ★312",
+              "description": "A curated list of talks about React Native or topics related to React Native.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68751820,
+                "language": null,
+                "last_commit": "2020-01-24T15:32:55Z",
+                "owner": "tiaanduplessis",
+                "repo": "awesome-react-native-talks",
+                "stars": 355
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Talks"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome React Native Education ★455",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71676965,
+                "language": null,
+                "last_commit": "2019-08-13T10:34:15Z",
+                "owner": "hsavit1",
+                "repo": "Awesome-React-Native-Education",
+                "stars": 680
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Training & tutorials"
+        }
+      ],
+      "title": "Videos"
+    },
+    {
       "description": null,
       "items": [
         {
@@ -15941,10 +16094,10 @@
             "archived": false,
             "id": 29028775,
             "language": "C++",
-            "last_commit": "2026-08-22T21:10:22Z",
+            "last_commit": "2026-08-24T13:45:03Z",
             "owner": "react",
             "repo": "react-native",
-            "stars": 126401
+            "stars": 126405
           }
         },
         {
@@ -15982,7 +16135,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:37:39.360Z",
+    "last_updated": "2026-08-24T13:48:59.055Z",
     "original_repository": "jondot/awesome-react-native",
     "original_repository_id": 32948863,
     "original_repository_sha": "23100d54f6ef1cbdf56d4983dde8fe97cbe26c76",
