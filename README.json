@@ -1176,7 +1176,7 @@
                 "last_commit": "2025-03-17T00:31:09Z",
                 "owner": "seniv",
                 "repo": "react-native-notifier",
-                "stars": 1435
+                "stars": 1436
               }
             },
             {
@@ -7230,7 +7230,7 @@
                     "last_commit": "2026-08-24T23:45:22Z",
                     "owner": "react",
                     "repo": "react-native",
-                    "stars": 126406
+                    "stars": 126408
                   }
                 }
               ],
@@ -8384,7 +8384,7 @@
                 "archived": false,
                 "id": 174038031,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T22:05:11Z",
+                "last_commit": "2026-08-25T02:40:03Z",
                 "owner": "react-hook-form",
                 "repo": "react-hook-form",
                 "stars": 44832
@@ -8399,7 +8399,7 @@
                 "archived": false,
                 "id": 174038031,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T22:05:11Z",
+                "last_commit": "2026-08-25T02:40:03Z",
                 "owner": "react-hook-form",
                 "repo": "react-hook-form",
                 "stars": 44832
@@ -11353,7 +11353,7 @@
                 "last_commit": "2026-08-24T02:00:32Z",
                 "owner": "pubkey",
                 "repo": "rxdb",
-                "stars": 23365
+                "stars": 23364
               }
             },
             {
@@ -12057,7 +12057,7 @@
                 "last_commit": "2026-07-27T22:31:24Z",
                 "owner": "react-native-google-signin",
                 "repo": "google-signin",
-                "stars": 3549
+                "stars": 3550
               }
             },
             {
@@ -13192,7 +13192,7 @@
                 "archived": false,
                 "id": 48009214,
                 "language": "C++",
-                "last_commit": "2026-08-25T02:17:32Z",
+                "last_commit": "2026-08-25T02:38:07Z",
                 "owner": "microsoft",
                 "repo": "react-native-windows",
                 "stars": 17328
@@ -14274,7 +14274,7 @@
             "last_commit": "2026-08-24T18:44:47Z",
             "owner": "laurent22",
             "repo": "joplin",
-            "stars": 56089
+            "stars": 56090
           }
         },
         {
@@ -14361,7 +14361,7 @@
             "archived": false,
             "id": 29702213,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T21:00:36Z",
+            "last_commit": "2026-08-25T05:19:14Z",
             "owner": "artsy",
             "repo": "eigen",
             "stars": 3775
@@ -16097,7 +16097,7 @@
             "last_commit": "2026-08-24T23:45:22Z",
             "owner": "react",
             "repo": "react-native",
-            "stars": 126406
+            "stars": 126408
           }
         },
         {
@@ -16135,7 +16135,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:31:15.110Z",
+    "last_updated": "2026-08-25T05:43:09.310Z",
     "original_repository": "jondot/awesome-react-native",
     "original_repository_id": 32948863,
     "original_repository_sha": "23100d54f6ef1cbdf56d4983dde8fe97cbe26c76",
