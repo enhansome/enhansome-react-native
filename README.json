@@ -109,10 +109,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-08-21T17:10:55Z",
-                "open_issues": 1186,
+                "open_issues": 1187,
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 172313,
+                "stars": 172347,
                 "topics": [
                   "agent-skills"
                 ]
@@ -135,7 +135,7 @@
                 "open_issues": 62,
                 "owner": "expo",
                 "repo": "skills",
-                "stars": 2474,
+                "stars": 2475,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:45:32.403Z"
@@ -163,7 +163,7 @@
                 "open_issues": 59,
                 "owner": "mobile-next",
                 "repo": "mobile-mcp",
-                "stars": 6083,
+                "stars": 6112,
                 "topics": [
                   "agent",
                   "android",
@@ -218,11 +218,11 @@
                 "id": 644461337,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T03:36:52Z",
-                "open_issues": 1672,
+                "last_commit": "2026-08-29T06:04:28Z",
+                "open_issues": 1677,
                 "owner": "vercel",
                 "repo": "ai",
-                "stars": 26477,
+                "stars": 26479,
                 "topics": [
                   "anthropic",
                   "artificial-intelligence",
@@ -372,7 +372,7 @@
                 "open_issues": 156,
                 "owner": "react-native-elements",
                 "repo": "react-native-elements",
-                "stars": 25867,
+                "stars": 25865,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -403,7 +403,7 @@
                 "open_issues": 376,
                 "owner": "GeekyAnts",
                 "repo": "NativeBase",
-                "stars": 20385,
+                "stars": 20384,
                 "topics": [
                   "android",
                   "hacktoberfest",
@@ -434,7 +434,7 @@
                 "open_issues": 19,
                 "owner": "oblador",
                 "repo": "react-native-vector-icons",
-                "stars": 17914,
+                "stars": 17913,
                 "topics": [
                   "icon",
                   "icon-pack",
@@ -460,7 +460,7 @@
                 "open_issues": 14,
                 "owner": "lottie-react-native",
                 "repo": "lottie-react-native",
-                "stars": 17209,
+                "stars": 17210,
                 "topics": [
                   "after-effects",
                   "animations",
@@ -572,7 +572,7 @@
                 "open_issues": 148,
                 "owner": "wix",
                 "repo": "react-native-calendars",
-                "stars": 10310,
+                "stars": 10309,
                 "topics": [
                   "android",
                   "calendar",
@@ -651,7 +651,7 @@
                 "open_issues": 12,
                 "owner": "gluestack",
                 "repo": "gluestack-ui",
-                "stars": 5272,
+                "stars": 5273,
                 "topics": [
                   "accessibility",
                   "component-library",
@@ -1205,7 +1205,7 @@
                 "open_issues": 843,
                 "owner": "react-navigation",
                 "repo": "react-navigation",
-                "stars": 24500,
+                "stars": 24501,
                 "topics": [
                   "navigation",
                   "react",
@@ -1567,7 +1567,7 @@
                 "open_issues": 7,
                 "owner": "react-hook-form",
                 "repo": "react-hook-form",
-                "stars": 44843,
+                "stars": 44842,
                 "topics": [
                   "dx",
                   "form-builder",
@@ -2267,7 +2267,7 @@
                 "open_issues": 30,
                 "owner": "transistorsoft",
                 "repo": "react-native-background-geolocation",
-                "stars": 2918,
+                "stars": 2919,
                 "topics": [
                   "background",
                   "background-geolocation",
@@ -2614,7 +2614,7 @@
                 "open_issues": 245,
                 "owner": "software-mansion",
                 "repo": "TypeGPU",
-                "stars": 3129,
+                "stars": 3132,
                 "topics": [
                   "gpgpu",
                   "gpu",
@@ -2655,7 +2655,7 @@
                 "open_issues": 23,
                 "owner": "styled-components",
                 "repo": "styled-components",
-                "stars": 41125,
+                "stars": 41124,
                 "topics": [
                   "css",
                   "css-in-js",
@@ -3604,7 +3604,7 @@
                 "open_issues": 5,
                 "owner": "pmndrs",
                 "repo": "zustand",
-                "stars": 58626,
+                "stars": 58627,
                 "topics": [
                   "hacktoberfest",
                   "hooks",
@@ -3660,7 +3660,7 @@
                 "open_issues": 292,
                 "owner": "reduxjs",
                 "repo": "redux-toolkit",
-                "stars": 11226,
+                "stars": 11225,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:45:32.403Z"
@@ -3706,7 +3706,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-28T10:17:48Z",
-                "open_issues": 1992,
+                "open_issues": 1993,
                 "owner": "drizzle-team",
                 "repo": "drizzle-orm",
                 "stars": 35617,
@@ -3929,10 +3929,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-29T03:09:26Z",
-                "open_issues": 134,
+                "open_issues": 136,
                 "owner": "TanStack",
                 "repo": "query",
-                "stars": 50224,
+                "stars": 50225,
                 "topics": [
                   "async",
                   "cache",
@@ -4186,7 +4186,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-29T03:09:58Z",
-            "open_issues": 129,
+            "open_issues": 128,
             "owner": "getsentry",
             "repo": "sentry-react-native",
             "stars": 1819,
@@ -4504,7 +4504,7 @@
                 "open_issues": 496,
                 "owner": "mobile-dev-inc",
                 "repo": "Maestro",
-                "stars": 15448,
+                "stars": 15451,
                 "topics": [
                   "android",
                   "blackbox-testing",
@@ -4628,7 +4628,7 @@
                 "open_issues": 18,
                 "owner": "gronxb",
                 "repo": "hot-updater",
-                "stars": 1684,
+                "stars": 1686,
                 "topics": [
                   "expo",
                   "plugin-system",
@@ -4689,7 +4689,7 @@
                 "open_issues": 162,
                 "owner": "margelo",
                 "repo": "nitro",
-                "stars": 1918,
+                "stars": 1919,
                 "topics": [
                   "cpp",
                   "fast",
@@ -4809,7 +4809,7 @@
             "open_issues": 621,
             "owner": "laurent22",
             "repo": "joplin",
-            "stars": 56144,
+            "stars": 56145,
             "topics": [
               "android",
               "dropbox",
@@ -4849,7 +4849,7 @@
             "open_issues": 2394,
             "owner": "bluesky-social",
             "repo": "social-app",
-            "stars": 18248,
+            "stars": 18251,
             "topics": []
           },
           "first_seen": "2026-08-28T12:45:32.403Z"
@@ -4866,8 +4866,8 @@
             "id": 285902689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-29T04:04:40Z",
-            "open_issues": 2158,
+            "last_commit": "2026-08-29T05:57:02Z",
+            "open_issues": 2165,
             "owner": "Expensify",
             "repo": "App",
             "stars": 5014,
@@ -4887,7 +4887,7 @@
             "id": 29702213,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-28T23:54:32Z",
+            "last_commit": "2026-08-29T05:19:52Z",
             "open_issues": 20,
             "owner": "artsy",
             "repo": "eigen",
@@ -4917,7 +4917,7 @@
             "id": 70265724,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T22:20:38Z",
+            "last_commit": "2026-08-29T06:11:19Z",
             "open_issues": 320,
             "owner": "mattermost",
             "repo": "mattermost-mobile",
@@ -4988,7 +4988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:11:49.161Z",
+    "last_updated": "2026-08-29T07:51:47.935Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Native components, news, tools, and learning material!",
@@ -5000,7 +5000,7 @@
       "open_issues": 9,
       "owner": "jondot",
       "repo": "awesome-react-native",
-      "stars": 35693,
+      "stars": 35694,
       "topics": [
         "awesome-list",
         "mobile",
