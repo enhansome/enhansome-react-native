@@ -112,7 +112,7 @@
                 "open_issues": 1394,
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 179432,
+                "stars": 179440,
                 "topics": [
                   "agent-skills"
                 ]
@@ -135,7 +135,7 @@
                 "open_issues": 76,
                 "owner": "expo",
                 "repo": "skills",
-                "stars": 2654,
+                "stars": 2655,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:45:32.403Z"
@@ -163,7 +163,7 @@
                 "open_issues": 49,
                 "owner": "mobile-next",
                 "repo": "mobile-mcp",
-                "stars": 8571,
+                "stars": 8572,
                 "topics": [
                   "agent",
                   "android",
@@ -508,7 +508,7 @@
                 "id": 304740870,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-03T04:57:28Z",
+                "last_commit": "2026-10-03T06:24:58Z",
                 "open_issues": 100,
                 "owner": "tamagui",
                 "repo": "tamagui",
@@ -1129,7 +1129,7 @@
                 "open_issues": 205,
                 "owner": "Shopify",
                 "repo": "flash-list",
-                "stars": 7242,
+                "stars": 7241,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:45:32.403Z"
@@ -1178,10 +1178,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-29T19:50:16Z",
-                "open_issues": 99,
+                "open_issues": 100,
                 "owner": "LegendApp",
                 "repo": "legend-list",
-                "stars": 3419,
+                "stars": 3418,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:45:32.403Z"
@@ -1259,7 +1259,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-02T21:05:58Z",
-                "open_issues": 355,
+                "open_issues": 356,
                 "owner": "software-mansion",
                 "repo": "react-native-screens",
                 "stars": 3733,
@@ -1630,7 +1630,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-01T14:34:38Z",
-                "open_issues": 127,
+                "open_issues": 128,
                 "owner": "kirillzyusko",
                 "repo": "react-native-keyboard-controller",
                 "stars": 3739,
@@ -1812,7 +1812,7 @@
                 "open_issues": 61,
                 "owner": "Expensify",
                 "repo": "react-native-live-markdown",
-                "stars": 1339,
+                "stars": 1338,
                 "topics": [
                   "markdown",
                   "react-native",
@@ -2768,7 +2768,7 @@
                 "id": 699781382,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-10-02T14:32:44Z",
+                "last_commit": "2026-10-03T06:22:20Z",
                 "open_issues": 54,
                 "owner": "jpudysz",
                 "repo": "react-native-unistyles",
@@ -3710,7 +3710,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-01T21:26:29Z",
-                "open_issues": 2098,
+                "open_issues": 2099,
                 "owner": "drizzle-team",
                 "repo": "drizzle-orm",
                 "stars": 35940,
@@ -3936,7 +3936,7 @@
                 "open_issues": 174,
                 "owner": "TanStack",
                 "repo": "query",
-                "stars": 50394,
+                "stars": 50393,
                 "topics": [
                   "async",
                   "cache",
@@ -4348,7 +4348,7 @@
                 "open_issues": 140,
                 "owner": "software-mansion",
                 "repo": "radon-ide",
-                "stars": 1721,
+                "stars": 1720,
                 "topics": [
                   "expo",
                   "react-native"
@@ -4628,7 +4628,7 @@
                 "id": 708452754,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-03T04:42:31Z",
+                "last_commit": "2026-10-03T06:08:09Z",
                 "open_issues": 21,
                 "owner": "gronxb",
                 "repo": "hot-updater",
@@ -4771,7 +4771,7 @@
             "open_issues": 19,
             "owner": "thecodingmachine",
             "repo": "react-native-boilerplate",
-            "stars": 5566,
+            "stars": 5565,
             "topics": [
               "architecture",
               "boilerplate",
@@ -4810,10 +4810,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-10-03T00:24:42Z",
-            "open_issues": 643,
+            "open_issues": 644,
             "owner": "laurent22",
             "repo": "joplin",
-            "stars": 56566,
+            "stars": 56567,
             "topics": [
               "android",
               "dropbox",
@@ -4871,7 +4871,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-03T03:31:25Z",
-            "open_issues": 2320,
+            "open_issues": 2322,
             "owner": "Expensify",
             "repo": "App",
             "stars": 5041,
@@ -4891,7 +4891,7 @@
             "id": 29702213,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T09:21:55Z",
+            "last_commit": "2026-10-03T05:22:53Z",
             "open_issues": 24,
             "owner": "artsy",
             "repo": "eigen",
@@ -4992,7 +4992,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:03:14.608Z",
+    "last_updated": "2026-10-03T06:30:23.263Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Native components, news, tools, and learning material!",
@@ -5004,7 +5004,7 @@
       "open_issues": 25,
       "owner": "jondot",
       "repo": "awesome-react-native",
-      "stars": 35711,
+      "stars": 35712,
       "topics": [
         "awesome-list",
         "mobile",
