@@ -57,7 +57,7 @@ Awesome React Native is a curated list of the best libraries, tools, and learnin
 
 ## Getting Started
 
-* [Upgrade Helper](https://github.com/react-native-community/upgrade-helper) ⭐ 4,071 | 🐛 17 | 🌐 TypeScript | 📅 2026-07-23 - Web tool that shows the exact diff between two React Native versions for painless upgrades.
+* [Upgrade Helper](https://github.com/react-native-community/upgrade-helper) ⭐ 4,072 | 🐛 17 | 🌐 TypeScript | 📅 2026-07-23 - Web tool that shows the exact diff between two React Native versions for painless upgrades.
 * [Expo Examples](https://github.com/expo/examples) ⭐ 3,744 | 🐛 134 | 🌐 TypeScript | 📅 2026-10-06 - Example projects demonstrating Expo APIs and integrations.
 * [rn-diff-purge](https://github.com/react-native-community/rn-diff-purge) ⭐ 1,317 | 🐛 3 | 🌐 Shell | 📅 2026-10-14 - The raw version-to-version diffs powering Upgrade Helper.
 * [React Native](https://reactnative.dev) - Official documentation, including environment setup, guides, and API reference.
@@ -70,24 +70,24 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 
 ### Agents & Skills
 
-* [Agent Skills](https://github.com/anthropics/skills) ⭐ 181,218 | 🐛 1,412 | 🌐 Python | 📅 2026-10-09 - Anthropic's public repository of agent skills, usable with Claude Code and other agents.
-* [Expo Skills](https://github.com/expo/skills) ⭐ 2,856 | 🐛 87 | 🌐 Shell | 📅 2026-10-14 - Agent skills that give coding agents Expo-specific knowledge and best practices.
+* [Agent Skills](https://github.com/anthropics/skills) ⭐ 181,441 | 🐛 1,420 | 🌐 Python | 📅 2026-10-09 - Anthropic's public repository of agent skills, usable with Claude Code and other agents.
+* [Expo Skills](https://github.com/expo/skills) ⭐ 2,870 | 🐛 87 | 🌐 Shell | 📅 2026-10-15 - Agent skills that give coding agents Expo-specific knowledge and best practices.
 * [Expo AI Agents Guide](https://docs.expo.dev/agents/) - Expo's official documentation for AI-native development: agent setup, llms.txt, and best practices.
 * [Claude Code + Expo](https://docs.expo.dev/agents/claude/) - Official guide for building, debugging, and deploying Expo apps with Claude Code.
 
 ### MCP Servers
 
-* [mobile-mcp](https://github.com/mobile-next/mobile-mcp) ⭐ 9,416 | 🐛 57 | 🌐 TypeScript | 📅 2026-10-14 - MCP server for mobile automation on iOS, Android, emulators, simulators, and real devices.
+* [mobile-mcp](https://github.com/mobile-next/mobile-mcp) ⭐ 9,606 | 🐛 59 | 🌐 TypeScript | 📅 2026-10-15 - MCP server for mobile automation on iOS, Android, emulators, simulators, and real devices.
 * [ios-simulator-mcp](https://github.com/joshuayoes/ios-simulator-mcp) ⭐ 2,193 | 🐛 28 | 🌐 JavaScript | 📅 2026-08-13 - MCP server for driving the iOS simulator: interact with UI, take screenshots, inspect the view hierarchy.
 * [Expo MCP](https://docs.expo.dev/mcp/) - Expo-hosted MCP server: EAS logs, documentation search, and deployment workflows from any MCP-capable agent.
 * [Maestro](https://maestro.dev) - E2E testing framework with a built-in MCP server, letting agents run flows and control devices.
 
 ### On-Device AI
 
-* [AI SDK](https://github.com/vercel/ai) ⭐ 27,323 | 🐛 1,366 | 🌐 TypeScript | 📅 2026-10-15 - The AI toolkit for TypeScript; works in Expo and React Native apps for chat, streaming, and tool use.
-* [react-native-executorch](https://github.com/software-mansion/react-native-executorch) ⭐ 1,764 | 🐛 52 | 🌐 TypeScript | 📅 2026-10-14 - Declarative on-device AI inference powered by ExecuTorch, from Software Mansion.
+* [AI SDK](https://github.com/vercel/ai) ⭐ 27,342 | 🐛 1,381 | 🌐 TypeScript | 📅 2026-10-15 - The AI toolkit for TypeScript; works in Expo and React Native apps for chat, streaming, and tool use.
+* [react-native-executorch](https://github.com/software-mansion/react-native-executorch) ⭐ 1,765 | 🐛 51 | 🌐 TypeScript | 📅 2026-10-15 - Declarative on-device AI inference powered by ExecuTorch, from Software Mansion.
 * [react-native-fast-tflite](https://github.com/mrousavy/react-native-fast-tflite) ⭐ 1,239 | 🐛 45 | 🌐 TypeScript | 📅 2026-09-11 - High-performance TensorFlow Lite inference with GPU acceleration.
-* [llama.rn](https://github.com/mybigday/llama.rn) ⭐ 1,056 | 🐛 21 | 🌐 C | 📅 2026-10-15 - React Native binding of llama.cpp for running LLMs on device.
+* [llama.rn](https://github.com/mybigday/llama.rn) ⭐ 1,059 | 🐛 22 | 🌐 C | 📅 2026-10-16 - React Native binding of llama.cpp for running LLMs on device.
 
 ### AI App Builders
 
@@ -99,23 +99,23 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 ### UI
 
 * [React Native Elements](https://github.com/react-native-elements/react-native-elements) ⭐ 25,875 | 🐛 159 | 🌐 MDX | 📅 2026-05-21 - Cross-platform UI toolkit with themed, composable components.
-* [NativeBase](https://github.com/GeekyAnts/NativeBase) ⭐ 20,365 | 🐛 377 | 🌐 TypeScript | 📅 2026-01-31 - Mobile-first, accessible component library for React Native and web.
-* [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) ⭐ 17,915 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-14 - Customizable icon sets with support for styling and image sources.
-* [lottie-react-native](https://github.com/lottie-react-native/lottie-react-native) ⭐ 17,204 | 🐛 18 | 🌐 TypeScript | 📅 2026-10-14 - Render After Effects animations natively.
+* [NativeBase](https://github.com/GeekyAnts/NativeBase) ⭐ 20,366 | 🐛 377 | 🌐 TypeScript | 📅 2026-01-31 - Mobile-first, accessible component library for React Native and web.
+* [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) ⭐ 17,916 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-14 - Customizable icon sets with support for styling and image sources.
+* [lottie-react-native](https://github.com/lottie-react-native/lottie-react-native) ⭐ 17,206 | 🐛 18 | 🌐 TypeScript | 📅 2026-10-14 - Render After Effects animations natively.
 * [react-native-paper](https://github.com/callstack/react-native-paper) ⭐ 14,469 | 🐛 500 | 🌐 TypeScript | 📅 2026-10-12 - Material Design components for Android and iOS.
-* [Tamagui](https://github.com/tamagui/tamagui) ⭐ 14,259 | 🐛 85 | 🌐 TypeScript | 📅 2026-10-15 - Universal UI kit and style system with an optimizing compiler, 100% parity between React Native and web.
-* [react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) ⭐ 10,662 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-06 - UI library based on the Eva Design System with theming support.
-* [react-native-calendars](https://github.com/wix/react-native-calendars) ⭐ 10,322 | 🐛 149 | 🌐 TypeScript | 📅 2026-10-13 - Feature-rich calendar components.
-* [react-native-svg](https://github.com/software-mansion/react-native-svg) ⭐ 8,006 | 🐛 281 | 🌐 TypeScript | 📅 2026-10-14 - SVG rendering for React Native and web.
-* [react-native-modal](https://github.com/react-native-modal/react-native-modal) ⭐ 5,648 | 🐛 100 | 🌐 TypeScript | 📅 2026-01-29 - Enhanced, animated, customizable modal.
-* [gluestack-ui](https://github.com/gluestack/gluestack-ui) ⭐ 5,326 | 🐛 20 | 🌐 TypeScript | 📅 2026-09-02 - Copy-paste components and patterns built on Tailwind-style utility classes.
+* [Tamagui](https://github.com/tamagui/tamagui) ⭐ 14,260 | 🐛 83 | 🌐 TypeScript | 📅 2026-10-16 - Universal UI kit and style system with an optimizing compiler, 100% parity between React Native and web.
+* [react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) ⭐ 10,664 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-06 - UI library based on the Eva Design System with theming support.
+* [react-native-calendars](https://github.com/wix/react-native-calendars) ⭐ 10,327 | 🐛 149 | 🌐 TypeScript | 📅 2026-10-13 - Feature-rich calendar components.
+* [react-native-svg](https://github.com/software-mansion/react-native-svg) ⭐ 8,009 | 🐛 249 | 🌐 TypeScript | 📅 2026-10-15 - SVG rendering for React Native and web.
+* [react-native-modal](https://github.com/react-native-modal/react-native-modal) ⭐ 5,649 | 🐛 100 | 🌐 TypeScript | 📅 2026-01-29 - Enhanced, animated, customizable modal.
+* [gluestack-ui](https://github.com/gluestack/gluestack-ui) ⭐ 5,327 | 🐛 20 | 🌐 TypeScript | 📅 2026-09-02 - Copy-paste components and patterns built on Tailwind-style utility classes.
 * [Shoutem UI](https://github.com/shoutem/ui) ⭐ 4,983 | 🐛 103 | 🌐 JavaScript | 📅 2026-09-23 - Customizable set of styled components for React Native.
-* [react-native-blur](https://github.com/margelo/react-native-blur) ⭐ 3,878 | 🐛 250 | 🌐 TypeScript | 📅 2026-05-09 - Native blur view component.
-* [react-native-reanimated-carousel](https://github.com/dohooo/react-native-reanimated-carousel) ⭐ 3,432 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-15 - Swiper/carousel built entirely on Reanimated, the successor to snap-carousel.
-* [react-native-pager-view](https://github.com/callstack/react-native-pager-view) ⭐ 3,367 | 🐛 153 | 🌐 TypeScript | 📅 2026-10-14 - Native ViewPager and UIPageViewController wrapper.
-* [react-native-date-picker](https://github.com/henninghall/react-native-date-picker) ⭐ 2,508 | 🐛 81 | 🌐 Java | 📅 2025-06-05 - Native date and time picker for Android and iOS.
+* [react-native-blur](https://github.com/margelo/react-native-blur) ⭐ 3,879 | 🐛 250 | 🌐 TypeScript | 📅 2026-05-09 - Native blur view component.
+* [react-native-reanimated-carousel](https://github.com/dohooo/react-native-reanimated-carousel) ⭐ 3,433 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-15 - Swiper/carousel built entirely on Reanimated, the successor to snap-carousel.
+* [react-native-pager-view](https://github.com/callstack/react-native-pager-view) ⭐ 3,369 | 🐛 150 | 🌐 TypeScript | 📅 2026-10-15 - Native ViewPager and UIPageViewController wrapper.
+* [react-native-date-picker](https://github.com/henninghall/react-native-date-picker) ⭐ 2,508 | 🐛 82 | 🌐 Java | 📅 2025-06-05 - Native date and time picker for Android and iOS.
 * [react-native-copilot](https://github.com/mohebifar/react-native-copilot) ⭐ 2,435 | 🐛 124 | 🌐 TypeScript | 📅 2024-12-17 - Step-by-step walkthrough tooltips for onboarding.
-* [react-native-circular-progress](https://github.com/bartgryszko/react-native-circular-progress) ⭐ 2,248 | 🐛 74 | 🌐 JavaScript | 📅 2025-08-13 - Animated circular progress indicators.
+* [react-native-circular-progress](https://github.com/bartgryszko/react-native-circular-progress) ⭐ 2,249 | 🐛 74 | 🌐 JavaScript | 📅 2025-08-13 - Animated circular progress indicators.
 * [react-native-blurhash](https://github.com/mrousavy/react-native-blurhash) ⭐ 2,241 | 🐛 33 | 🌐 Kotlin | 📅 2026-03-19 - Colorful blurry placeholders while content loads.
 * [react-native-svg-transformer](https://github.com/kristerkari/react-native-svg-transformer) ⭐ 1,739 | 🐛 93 | 🌐 JavaScript | 📅 2026-10-13 - Import SVG files as components, like on the web.
 * [react-native-super-grid](https://github.com/saleel/react-native-super-grid) ⭐ 1,481 | 🐛 12 | 🌐 JavaScript | 📅 2025-11-26 - Responsive grid view.
@@ -127,35 +127,35 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 
 ### Lists
 
-* [FlashList](https://github.com/Shopify/flash-list) ⭐ 7,242 | 🐛 223 | 🌐 TypeScript | 📅 2026-10-01 - Shopify's fast and performant list, a drop-in replacement for FlatList.
-* [recyclerlistview](https://github.com/Flipkart/recyclerlistview) ⭐ 5,429 | 🐛 265 | 🌐 TypeScript | 📅 2025-03-16 - The recycling listview that pioneered high-performance lists in React Native.
-* [Legend List](https://github.com/LegendApp/legend-list) ⭐ 3,428 | 🐛 108 | 🌐 TypeScript | 📅 2026-10-14 - High-performance list in pure JS, built for the New Architecture.
+* [FlashList](https://github.com/Shopify/flash-list) ⭐ 7,243 | 🐛 224 | 🌐 TypeScript | 📅 2026-10-01 - Shopify's fast and performant list, a drop-in replacement for FlatList.
+* [recyclerlistview](https://github.com/Flipkart/recyclerlistview) ⭐ 5,431 | 🐛 265 | 🌐 TypeScript | 📅 2025-03-16 - The recycling listview that pioneered high-performance lists in React Native.
+* [Legend List](https://github.com/LegendApp/legend-list) ⭐ 3,428 | 🐛 109 | 🌐 TypeScript | 📅 2026-10-14 - High-performance list in pure JS, built for the New Architecture.
 
 ### Navigation
 
-* [React Navigation](https://github.com/react-navigation/react-navigation) ⭐ 24,511 | 🐛 843 | 🌐 TypeScript | 📅 2026-10-13 - The standard routing and navigation library for React Native.
-* [react-native-navigation](https://github.com/wix/react-native-navigation) ⭐ 13,173 | 🐛 57 | 🌐 MDX | 📅 2026-10-06 - Wix's fully native navigation solution.
-* [react-native-screens](https://github.com/software-mansion/react-native-screens) ⭐ 3,736 | 🐛 354 | 🌐 TypeScript | 📅 2026-10-15 - Native navigation primitives that back React Navigation's native stack.
-* [react-native-bottom-tabs](https://github.com/callstack/react-native-bottom-tabs) ⭐ 1,462 | 🐛 65 | 🌐 TypeScript | 📅 2026-09-24 - Truly native bottom tab bars (SwiftUI and Material) for React Native.
+* [React Navigation](https://github.com/react-navigation/react-navigation) ⭐ 24,511 | 🐛 846 | 🌐 TypeScript | 📅 2026-10-15 - The standard routing and navigation library for React Native.
+* [react-native-navigation](https://github.com/wix/react-native-navigation) ⭐ 13,172 | 🐛 57 | 🌐 MDX | 📅 2026-10-06 - Wix's fully native navigation solution.
+* [react-native-screens](https://github.com/software-mansion/react-native-screens) ⭐ 3,737 | 🐛 365 | 🌐 TypeScript | 📅 2026-10-16 - Native navigation primitives that back React Navigation's native stack.
+* [react-native-bottom-tabs](https://github.com/callstack/react-native-bottom-tabs) ⭐ 1,463 | 🐛 66 | 🌐 TypeScript | 📅 2026-09-24 - Truly native bottom tab bars (SwiftUI and Material) for React Native.
 * [Expo Router](https://docs.expo.dev/router/introduction/) - File-based routing for universal React Native apps, built on React Navigation.
 
 ### Sheets, Menus & Toasts
 
-* [react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet) ⭐ 9,105 | 🐛 66 | 🌐 TypeScript | 📅 2026-05-09 - Performant, interactive bottom sheet with configurable gestures.
+* [react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet) ⭐ 9,106 | 🐛 66 | 🌐 TypeScript | 📅 2026-05-09 - Performant, interactive bottom sheet with configurable gestures.
 * [Zeego](https://github.com/nandorojo/zeego) ⭐ 2,255 | 🐛 49 | 🌐 TypeScript | 📅 2026-01-28 - Menus for React Native done right — truly native dropdown and context menus.
-* [react-native-actions-sheet](https://github.com/ammarahm-ed/react-native-actions-sheet) ⭐ 2,179 | 🐛 112 | 🌐 TypeScript | 📅 2026-04-23 - Cross-platform ActionSheet with a flexible API.
-* [react-native-root-toast](https://github.com/magicismight/react-native-root-toast) ⭐ 2,137 | 🐛 95 | 🌐 JavaScript | 📅 2025-11-07 - Pure JavaScript toast solution.
-* [react-native-true-sheet](https://github.com/lodev09/react-native-true-sheet) ⭐ 2,077 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-13 - The true native bottom sheet experience.
+* [react-native-actions-sheet](https://github.com/ammarahm-ed/react-native-actions-sheet) ⭐ 2,180 | 🐛 114 | 🌐 TypeScript | 📅 2026-04-23 - Cross-platform ActionSheet with a flexible API.
+* [react-native-root-toast](https://github.com/magicismight/react-native-root-toast) ⭐ 2,138 | 🐛 95 | 🌐 JavaScript | 📅 2025-11-07 - Pure JavaScript toast solution.
+* [react-native-true-sheet](https://github.com/lodev09/react-native-true-sheet) ⭐ 2,077 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-15 - The true native bottom sheet experience.
 * [Burnt](https://github.com/nandorojo/burnt) ⭐ 1,561 | 🐛 21 | 🌐 Java | 📅 2025-12-15 - Native toasts and alerts for iOS and Android.
 * [react-native-popup-menu](https://github.com/instea/react-native-popup-menu) ⭐ 1,557 | 🐛 49 | 🌐 JavaScript | 📅 2026-07-23 - Extensible popup menu component.
 * [react-native-flash-message](https://github.com/lucasferreira/react-native-flash-message) ⚠️ Archived - Flashbar and top-notification alerts.
-* [react-native-notifier](https://github.com/seniv/react-native-notifier) ⭐ 1,436 | 🐛 19 | 🌐 TypeScript | 📅 2025-03-17 - Fast and simple in-app notifications.
+* [react-native-notifier](https://github.com/seniv/react-native-notifier) ⭐ 1,437 | 🐛 19 | 🌐 TypeScript | 📅 2025-03-17 - Fast and simple in-app notifications.
 
 ### Forms & Keyboard
 
-* [React Hook Form](https://github.com/react-hook-form/react-hook-form) ⭐ 44,857 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-14 - Performant form state management and validation for React and React Native.
-* [Formik](https://github.com/jaredpalmer/formik) ⭐ 34,304 | 🐛 845 | 🌐 TypeScript | 📅 2025-11-10 - Build forms without the tears.
-* [react-native-keyboard-controller](https://github.com/kirillzyusko/react-native-keyboard-controller) ⭐ 3,747 | 🐛 128 | 🌐 TypeScript | 📅 2026-10-14 - Keyboard manager that works identically on iOS and Android.
+* [React Hook Form](https://github.com/react-hook-form/react-hook-form) ⭐ 44,861 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-15 - Performant form state management and validation for React and React Native.
+* [Formik](https://github.com/jaredpalmer/formik) ⭐ 34,305 | 🐛 845 | 🌐 TypeScript | 📅 2025-11-10 - Build forms without the tears.
+* [react-native-keyboard-controller](https://github.com/kirillzyusko/react-native-keyboard-controller) ⭐ 3,747 | 🐛 126 | 🌐 TypeScript | 📅 2026-10-15 - Keyboard manager that works identically on iOS and Android.
 * [react-native-picker-select](https://github.com/lawnstarter/react-native-picker-select) ⭐ 1,844 | 🐛 97 | 🌐 JavaScript | 📅 2026-07-20 - Picker emulating the native select interface.
 * [react-native-masked-text](https://github.com/bhrott/react-native-masked-text) ⭐ 1,607 | 🐛 101 | 🌐 JavaScript | 📅 2025-04-10 - Masked text and input components.
 * [react-native-credit-card-input](https://github.com/sbycrosz/react-native-credit-card-input) ⭐ 1,508 | 🐛 6 | 🌐 TypeScript | 📅 2025-11-10 - Cross-platform credit card input.
@@ -168,115 +168,115 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 * [react-native-hyperlink](https://github.com/obipawan/react-native-hyperlink) ⭐ 811 | 🐛 12 | 🌐 TypeScript | 📅 2026-02-19 - Make URLs, emails, and fuzzy links clickable.
 * [react-native-markdown-display](https://github.com/iamacup/react-native-markdown-display) ⭐ 791 | 🐛 1 | 🌐 JavaScript | 📅 2026-03-20 - 100% CommonMark-compatible Markdown renderer.
 * [react-native-responsive-fontsize](https://github.com/heyman333/react-native-responsive-fontsize) ⭐ 739 | 🐛 13 | 🌐 JavaScript | 📅 2026-01-24 - Responsive font sizes based on device screen size.
-* [react-native-html-to-pdf](https://github.com/christopherdro/react-native-html-to-pdf) ⭐ 462 | 🐛 10 | 🌐 Kotlin | 📅 2026-01-29 - Convert HTML strings to PDF documents.
+* [react-native-html-to-pdf](https://github.com/christopherdro/react-native-html-to-pdf) ⭐ 463 | 🐛 10 | 🌐 Kotlin | 📅 2026-01-29 - Convert HTML strings to PDF documents.
 
 ### Image & Camera
 
 * [react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) ⭐ 9,646 | 🐛 113 | 🌐 TypeScript | 📅 2026-10-14 - Powerful, high-performance camera library with frame processors.
-* [react-native-image-picker](https://github.com/react-native-image-picker/react-native-image-picker) ⭐ 8,632 | 🐛 351 | 🌐 Java | 📅 2026-10-13 - Native UI for selecting photos and videos.
-* [react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker) ⭐ 6,350 | 🐛 654 | 🌐 Objective-C | 📅 2026-09-29 - Image picker with camera, cropping, and compression.
+* [react-native-image-picker](https://github.com/react-native-image-picker/react-native-image-picker) ⭐ 8,633 | 🐛 351 | 🌐 Java | 📅 2026-10-13 - Native UI for selecting photos and videos.
+* [react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker) ⭐ 6,351 | 🐛 651 | 🌐 Objective-C | 📅 2026-10-15 - Image picker with camera, cropping, and compression.
 * [react-native-camera-kit](https://github.com/teslamotors/react-native-camera-kit) ⭐ 2,711 | 🐛 113 | 🌐 Swift | 📅 2026-08-03 - High-performance camera library with barcode scanning, by Tesla.
-* [react-native-image-resizer](https://github.com/bamlab/react-native-image-resizer) ⭐ 1,660 | 🐛 3 | 🌐 Java | 📅 2026-10-09 - Resize local images natively.
+* [react-native-image-resizer](https://github.com/bamlab/react-native-image-resizer) ⭐ 1,661 | 🐛 3 | 🌐 Java | 📅 2026-10-09 - Resize local images natively.
 * [expo-image](https://docs.expo.dev/versions/latest/sdk/image/) - Fast, modern image component with caching and blurhash support.
 
 ### Video & Audio
 
-* [react-native-video](https://github.com/TheWidlarzGroup/react-native-video) ⭐ 7,720 | 🐛 190 | 🌐 TypeScript | 📅 2026-10-15 - The Video component for React Native.
-* [react-native-webrtc](https://github.com/react-native-webrtc/react-native-webrtc) ⭐ 4,995 | 🐛 32 | 🌐 Java | 📅 2026-10-13 - WebRTC for React Native.
+* [react-native-video](https://github.com/TheWidlarzGroup/react-native-video) ⭐ 7,720 | 🐛 190 | 🌐 TypeScript | 📅 2026-10-16 - The Video component for React Native.
+* [react-native-webrtc](https://github.com/react-native-webrtc/react-native-webrtc) ⭐ 4,995 | 🐛 34 | 🌐 Java | 📅 2026-10-13 - WebRTC for React Native.
 * [react-native-track-player](https://github.com/doublesymmetry/react-native-track-player) ⭐ 3,709 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-30 - Full-featured audio player: background playback, Android Auto, CarPlay, lock-screen controls.
 * [react-native-sound](https://github.com/zmxv/react-native-sound) ⭐ 2,917 | 🐛 254 | 🌐 TypeScript | 📅 2026-02-12 - Play sound clips natively.
-* [react-native-audio-api](https://github.com/software-mansion/react-native-audio-api) ⭐ 848 | 🐛 31 | 🌐 C++ | 📅 2026-10-14 - High-performance audio engine implementing the Web Audio API.
+* [react-native-audio-api](https://github.com/software-mansion/react-native-audio-api) ⭐ 848 | 🐛 33 | 🌐 C++ | 📅 2026-10-15 - High-performance audio engine implementing the Web Audio API.
 * [expo-video](https://docs.expo.dev/versions/latest/sdk/video/) - Modern video playback built for Expo and the New Architecture.
 
 ### Maps & Location
 
-* [react-native-maps](https://github.com/react-native-maps/react-native-maps) ⭐ 16,008 | 🐛 94 | 🌐 TypeScript | 📅 2026-10-13 - MapView components for iOS and Android.
-* [react-native-background-geolocation](https://github.com/transistorsoft/react-native-background-geolocation) ⭐ 2,937 | 🐛 23 | 🌐 TypeScript | 📅 2026-10-10 - Battery-conscious background location with motion detection.
-* [rnmapbox/maps](https://github.com/rnmapbox/maps) ⭐ 2,921 | 🐛 107 | 🌐 Kotlin | 📅 2026-10-13 - Mapbox maps for custom map experiences.
+* [react-native-maps](https://github.com/react-native-maps/react-native-maps) ⭐ 16,008 | 🐛 99 | 🌐 TypeScript | 📅 2026-10-15 - MapView components for iOS and Android.
+* [react-native-background-geolocation](https://github.com/transistorsoft/react-native-background-geolocation) ⭐ 2,941 | 🐛 23 | 🌐 TypeScript | 📅 2026-10-10 - Battery-conscious background location with motion detection.
+* [rnmapbox/maps](https://github.com/rnmapbox/maps) ⭐ 2,921 | 🐛 113 | 🌐 Kotlin | 📅 2026-10-15 - Mapbox maps for custom map experiences.
 * [react-native-google-places-autocomplete](https://github.com/FaridSafi/react-native-google-places-autocomplete) ⭐ 2,071 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-09 - Customizable Google Places autocomplete.
-* [react-native-map-link](https://github.com/tschoffelen/react-native-map-link) ⭐ 822 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-13 - Open the user's preferred maps app.
+* [react-native-map-link](https://github.com/tschoffelen/react-native-map-link) ⭐ 822 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-15 - Open the user's preferred maps app.
 
 ### Charts
 
-* [react-native-graph](https://github.com/margelo/react-native-graph) ⭐ 2,633 | 🐛 24 | 🌐 TypeScript | 📅 2026-10-13 - Beautiful, high-performance line graphs built with Skia.
+* [react-native-graph](https://github.com/margelo/react-native-graph) ⭐ 2,634 | 🐛 24 | 🌐 TypeScript | 📅 2026-10-13 - Beautiful, high-performance line graphs built with Skia.
 * [react-native-gifted-charts](https://github.com/Abhinandan-Kushwaha/react-native-gifted-charts) ⭐ 1,375 | 🐛 99 | 🌐 TypeScript | 📅 2026-10-05 - Bar, line, area, pie, donut, and stacked charts.
 * [victory-native-xl](https://github.com/FormidableLabs/victory-native-xl) ⭐ 1,231 | 🐛 88 | 🌐 TypeScript | 📅 2026-08-31 - Charting built on Skia and Reanimated with a focus on performance.
 
 ### Animation & Gestures
 
-* [react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) ⭐ 11,024 | 🐛 355 | 🌐 TypeScript | 📅 2026-10-14 - The standard for performant animations, running on the UI thread.
+* [react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) ⭐ 11,026 | 🐛 331 | 🌐 TypeScript | 📅 2026-10-15 - The standard for performant animations, running on the UI thread.
 * [react-native-animatable](https://github.com/oblador/react-native-animatable) ⭐ 9,928 | 🐛 170 | 🌐 JavaScript | 📅 2023-10-26 - Declarative transitions and standard animations.
-* [react-native-skia](https://github.com/Shopify/react-native-skia) ⭐ 8,730 | 🐛 114 | 🌐 TypeScript | 📅 2026-10-15 - High-performance 2D graphics with the Skia rendering engine.
-* [react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler) ⭐ 6,793 | 🐛 17 | 🌐 TypeScript | 📅 2026-10-14 - Declarative, native-driven gesture system.
-* [Moti](https://github.com/nandorojo/moti) ⭐ 4,555 | 🐛 44 | 🌐 TypeScript | 📅 2025-03-11 - Universal animation library powered by Reanimated, with a Framer Motion-like API.
-* [TypeGPU](https://github.com/software-mansion/TypeGPU) ⭐ 3,270 | 🐛 327 | 🌐 TypeScript | 📅 2026-10-14 - Type-safe WebGPU toolkit for advanced GPU work.
+* [react-native-skia](https://github.com/Shopify/react-native-skia) ⭐ 8,731 | 🐛 105 | 🌐 TypeScript | 📅 2026-10-15 - High-performance 2D graphics with the Skia rendering engine.
+* [react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler) ⭐ 6,792 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-15 - Declarative, native-driven gesture system.
+* [Moti](https://github.com/nandorojo/moti) ⭐ 4,556 | 🐛 44 | 🌐 TypeScript | 📅 2025-03-11 - Universal animation library powered by Reanimated, with a Framer Motion-like API.
+* [TypeGPU](https://github.com/software-mansion/TypeGPU) ⭐ 3,275 | 🐛 321 | 🌐 TypeScript | 📅 2026-10-15 - Type-safe WebGPU toolkit for advanced GPU work.
 
 ### Styling & Design Systems
 
-* [styled-components](https://github.com/styled-components/styled-components) ⭐ 41,089 | 🐛 25 | 🌐 TypeScript | 📅 2026-10-12 - CSS-in-JS styling that also targets React Native.
+* [styled-components](https://github.com/styled-components/styled-components) ⭐ 41,091 | 🐛 25 | 🌐 TypeScript | 📅 2026-10-12 - CSS-in-JS styling that also targets React Native.
 * [Emotion](https://github.com/emotion-js/emotion) ⭐ 18,015 | 🐛 399 | 🌐 JavaScript | 📅 2026-08-28 - High-performance CSS-in-JS style composition.
-* [NativeWind](https://github.com/nativewind/nativewind) ⭐ 8,112 | 🐛 61 | 🌐 JavaScript | 📅 2026-10-14 - Tailwind CSS for React Native.
+* [NativeWind](https://github.com/nativewind/nativewind) ⭐ 8,113 | 🐛 61 | 🌐 JavaScript | 📅 2026-10-14 - Tailwind CSS for React Native.
 * [react-native-typography](https://github.com/hectahertz/react-native-typography) ⭐ 3,559 | 🐛 18 | 🌐 JavaScript | 📅 2025-01-12 - Pixel-perfect, native-looking typographic styles.
-* [Unistyles](https://github.com/jpudysz/react-native-unistyles) ⭐ 2,968 | 🐛 19 | 🌐 TypeScript | 📅 2026-10-14 - C++-powered StyleSheet superset with themes and breakpoints, built for the New Architecture.
-* [react-native-safe-area-context](https://github.com/AppAndFlow/react-native-safe-area-context) ⭐ 2,767 | 🐛 105 | 🌐 TypeScript | 📅 2026-10-13 - Flexible safe area inset handling.
-* [react-native-edge-to-edge](https://github.com/zoontek/react-native-edge-to-edge) ⭐ 1,032 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-14 - Effortless edge-to-edge display on Android.
+* [Unistyles](https://github.com/jpudysz/react-native-unistyles) ⭐ 2,967 | 🐛 20 | 🌐 TypeScript | 📅 2026-10-14 - C++-powered StyleSheet superset with themes and breakpoints, built for the New Architecture.
+* [react-native-safe-area-context](https://github.com/AppAndFlow/react-native-safe-area-context) ⭐ 2,768 | 🐛 106 | 🌐 TypeScript | 📅 2026-10-15 - Flexible safe area inset handling.
+* [react-native-edge-to-edge](https://github.com/zoontek/react-native-edge-to-edge) ⭐ 1,033 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-14 - Effortless edge-to-edge display on Android.
 * [Stacks](https://github.com/grapp-dev/stacks) ⭐ 1,028 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-01 - Layout primitives for building consistent UIs.
 
 ### Internationalization
 
-* [react-native-localize](https://github.com/zoontek/react-native-localize) ⭐ 2,441 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-13 - Toolbox for app localization: locales, timezones, currencies.
+* [react-native-localize](https://github.com/zoontek/react-native-localize) ⭐ 2,442 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-13 - Toolbox for app localization: locales, timezones, currencies.
 
 ### System & Device
 
-* [react-native-device-info](https://github.com/react-native-device-info/react-native-device-info) ⭐ 6,684 | 🐛 31 | 🌐 TypeScript | 📅 2026-10-13 - Device information for iOS and Android.
-* [react-native-config](https://github.com/react-native-config/react-native-config) ⭐ 4,952 | 🐛 304 | 🌐 Ruby | 📅 2026-10-14 - Expose environment config to your JS and native code.
-* [react-native-permissions](https://github.com/zoontek/react-native-permissions) ⭐ 4,374 | 🐛 8 | 🌐 Objective-C++ | 📅 2026-09-14 - Unified permissions API.
-* [react-native-share](https://github.com/react-native-share/react-native-share) ⭐ 3,897 | 🐛 12 | 🌐 Java | 📅 2026-08-31 - Native share sheet and social sharing.
-* [react-native-keychain](https://github.com/oblador/react-native-keychain) ⭐ 3,481 | 🐛 195 | 🌐 Kotlin | 📅 2026-04-29 - Secure keychain and keystore access.
-* [react-native-contacts](https://github.com/morenoh149/react-native-contacts) ⭐ 1,707 | 🐛 10 | 🌐 Java | 📅 2026-10-13 - Native contacts access.
+* [react-native-device-info](https://github.com/react-native-device-info/react-native-device-info) ⭐ 6,686 | 🐛 32 | 🌐 TypeScript | 📅 2026-10-15 - Device information for iOS and Android.
+* [react-native-config](https://github.com/react-native-config/react-native-config) ⭐ 4,953 | 🐛 304 | 🌐 Ruby | 📅 2026-10-14 - Expose environment config to your JS and native code.
+* [react-native-permissions](https://github.com/zoontek/react-native-permissions) ⭐ 4,373 | 🐛 8 | 🌐 Objective-C++ | 📅 2026-09-14 - Unified permissions API.
+* [react-native-share](https://github.com/react-native-share/react-native-share) ⭐ 3,898 | 🐛 12 | 🌐 Java | 📅 2026-08-31 - Native share sheet and social sharing.
+* [react-native-keychain](https://github.com/oblador/react-native-keychain) ⭐ 3,483 | 🐛 195 | 🌐 Kotlin | 📅 2026-04-29 - Secure keychain and keystore access.
+* [react-native-contacts](https://github.com/morenoh149/react-native-contacts) ⭐ 1,709 | 🐛 12 | 🌐 Java | 📅 2026-10-13 - Native contacts access.
 * [react-native-background-fetch](https://github.com/transistorsoft/react-native-background-fetch) ⭐ 1,611 | 🐛 1 | 🌐 Java | 📅 2026-04-22 - Periodic background callbacks on iOS and Android.
-* [document-picker](https://github.com/react-native-documents/document-picker) ⭐ 1,513 | 🐛 21 | 🌐 TypeScript | 📅 2026-10-13 - Document picker and viewer.
+* [document-picker](https://github.com/react-native-documents/document-picker) ⭐ 1,514 | 🐛 20 | 🌐 TypeScript | 📅 2026-10-15 - Document picker and viewer.
 * [react-native-haptic-feedback](https://github.com/mkuczera/react-native-haptic-feedback) ⭐ 985 | 🐛 9 | 🌐 TypeScript | 📅 2026-06-10 - Haptics that feel right, including Core Haptics patterns.
 * [react-native-sensors](https://github.com/react-native-sensors/react-native-sensors) ⭐ 936 | 🐛 49 | 🌐 Objective-C | 📅 2026-10-15 - Developer-friendly access to device sensors.
 * [react-native-calendar-events](https://github.com/wmcmahan/react-native-calendar-events) ⭐ 930 | 🐛 78 | 🌐 Java | 📅 2026-01-05 - Calendar event access for iOS and Android.
 * [expo-quick-actions](https://github.com/EvanBacon/expo-quick-actions) ⭐ 664 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-25 - Home screen quick actions and custom app icons.
-* [react-native-ssl-pinning](https://github.com/MaxToyberman/react-native-ssl-pinning) ⭐ 410 | 🐛 76 | 🌐 Java | 📅 2025-07-02 - SSL pinning and cookie handling.
+* [react-native-ssl-pinning](https://github.com/MaxToyberman/react-native-ssl-pinning) ⭐ 410 | 🐛 77 | 🌐 Java | 📅 2025-07-02 - SSL pinning and cookie handling.
 * [react-native-background-downloader](https://github.com/kesha-antonov/react-native-background-downloader) ⭐ 218 | 🐛 1 | 🌐 Kotlin | 📅 2026-09-15 - Download and upload large files, even when the app is backgrounded.
 
 ### Notifications
 
-* [react-native-firebase](https://github.com/invertase/react-native-firebase) ⭐ 12,318 | 🐛 55 | 🌐 TypeScript | 📅 2026-10-14 - Includes FCM messaging alongside the full Firebase suite.
+* [react-native-firebase](https://github.com/invertase/react-native-firebase) ⭐ 12,318 | 🐛 57 | 🌐 TypeScript | 📅 2026-10-16 - Includes FCM messaging alongside the full Firebase suite.
 * [react-native-notifications](https://github.com/wix/react-native-notifications) ⭐ 3,340 | 🐛 7 | 🌐 Java | 📅 2026-10-05 - Wix's notification handling library.
 * [react-native-onesignal](https://github.com/OneSignal/react-native-onesignal) ⭐ 1,593 | 🐛 19 | 🌐 TypeScript | 📅 2026-10-14 - OneSignal push notification SDK.
 * [Expo Notifications](https://docs.expo.dev/versions/latest/sdk/notifications/) - Push and local notifications for Expo apps.
 
 ### Web & WebViews
 
-* [react-native-web](https://github.com/necolas/react-native-web) ⭐ 22,144 | 🐛 141 | 🌐 JavaScript | 📅 2026-10-14 - Run React Native components and APIs on the web.
-* [react-native-webview](https://github.com/react-native-webview/react-native-webview) ⭐ 7,196 | 🐛 84 | 🌐 TypeScript | 📅 2026-09-20 - The community WebView component.
+* [react-native-web](https://github.com/necolas/react-native-web) ⭐ 22,145 | 🐛 142 | 🌐 JavaScript | 📅 2026-10-15 - Run React Native components and APIs on the web.
+* [react-native-webview](https://github.com/react-native-webview/react-native-webview) ⭐ 7,197 | 🐛 85 | 🌐 TypeScript | 📅 2026-09-20 - The community WebView component.
 * [Solito](https://github.com/nandorojo/solito) ⭐ 4,097 | 🐛 27 | 🌐 TypeScript | 📅 2026-09-10 - React Native + Next.js, unified navigation for universal apps.
 * [react-native-inappbrowser](https://github.com/proyecto26/react-native-inappbrowser) ⭐ 1,418 | 🐛 91 | 🌐 Java | 📅 2026-03-22 - In-app browser using Chrome Custom Tabs and SFSafariViewController.
 
 ### Other Platforms
 
-* [react-native-windows](https://github.com/microsoft/react-native-windows) ⭐ 17,356 | 🐛 813 | 🌐 C++ | 📅 2026-10-14 - Build native Windows apps with React.
-* [react-native-macos](https://github.com/microsoft/react-native-macos) ⭐ 4,390 | 🐛 115 | 🌐 C++ | 📅 2026-10-14 - Build native macOS apps with React.
+* [react-native-windows](https://github.com/microsoft/react-native-windows) ⭐ 17,358 | 🐛 811 | 🌐 C++ | 📅 2026-10-15 - Build native Windows apps with React.
+* [react-native-macos](https://github.com/microsoft/react-native-macos) ⭐ 4,393 | 🐛 119 | 🌐 C++ | 📅 2026-10-15 - Build native macOS apps with React.
 
 ## Data
 
 ### State Management
 
-* [Zustand](https://github.com/pmndrs/zustand) ⭐ 58,819 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-14 - Bear necessities for state management.
-* [Jotai](https://github.com/pmndrs/jotai) ⭐ 21,294 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-07 - Primitive and flexible atomic state.
-* [Redux Toolkit](https://github.com/reduxjs/redux-toolkit) ⭐ 11,230 | 🐛 282 | 🌐 TypeScript | 📅 2026-10-06 - The official, batteries-included Redux toolset.
-* [Legend State](https://github.com/LegendApp/legend-state) ⭐ 4,218 | 🐛 223 | 🌐 TypeScript | 📅 2026-10-10 - Super fast state with fine-grained reactivity and built-in sync.
+* [Zustand](https://github.com/pmndrs/zustand) ⭐ 58,826 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-14 - Bear necessities for state management.
+* [Jotai](https://github.com/pmndrs/jotai) ⭐ 21,296 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-07 - Primitive and flexible atomic state.
+* [Redux Toolkit](https://github.com/reduxjs/redux-toolkit) ⭐ 11,231 | 🐛 283 | 🌐 TypeScript | 📅 2026-10-06 - The official, batteries-included Redux toolset.
+* [Legend State](https://github.com/LegendApp/legend-state) ⭐ 4,220 | 🐛 223 | 🌐 TypeScript | 📅 2026-10-10 - Super fast state with fine-grained reactivity and built-in sync.
 
 ### Storage & Databases
 
-* [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm) ⭐ 36,036 | 🐛 2,138 | 🌐 TypeScript | 📅 2026-10-14 - TypeScript ORM with first-class Expo/React Native SQLite support.
-* [RxDB](https://github.com/pubkey/rxdb) ⭐ 23,408 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-15 - Local-first, reactive database that replicates with your backend.
+* [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm) ⭐ 36,050 | 🐛 2,147 | 🌐 TypeScript | 📅 2026-10-15 - TypeScript ORM with first-class Expo/React Native SQLite support.
+* [RxDB](https://github.com/pubkey/rxdb) ⭐ 23,410 | 🐛 17 | 🌐 TypeScript | 📅 2026-10-16 - Local-first, reactive database that replicates with your backend.
 * [WatermelonDB](https://github.com/Nozbe/WatermelonDB) ⭐ 11,792 | 🐛 303 | 🌐 JavaScript | 📅 2026-09-16 - Reactive and asynchronous database for powerful apps that scale.
-* [react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) ⭐ 8,515 | 🐛 24 | 🌐 TypeScript | 📅 2026-10-08 - The fastest key/value storage for React Native, \~30x faster than AsyncStorage.
+* [react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) ⭐ 8,517 | 🐛 24 | 🌐 TypeScript | 📅 2026-10-08 - The fastest key/value storage for React Native, \~30x faster than AsyncStorage.
 * [Realm](https://github.com/realm/realm-js) ⭐ 6,003 | 🐛 662 | 🌐 TypeScript | 📅 2026-10-06 - Mobile object database, an alternative to SQLite.
 * [AsyncStorage](https://github.com/react-native-async-storage/async-storage) ⭐ 5,073 | 🐛 26 | 🌐 Kotlin | 📅 2026-10-09 - Simple, asynchronous, persistent key-value storage.
 * [op-sqlite](https://github.com/OP-Engineering/op-sqlite) ⭐ 1,048 | 🐛 10 | 🌐 C | 📅 2026-09-29 - The fastest SQLite library for React Native.
@@ -284,33 +284,33 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 
 ### Networking
 
-* [TanStack Query](https://github.com/TanStack/query) ⭐ 50,432 | 🐛 167 | 🌐 TypeScript | 📅 2026-10-15 - Powerful async state management and data fetching.
-* [apisauce](https://github.com/infinitered/apisauce) ⭐ 2,884 | 🐛 47 | 🌐 JavaScript | 📅 2026-06-12 - Axios with standardized errors and request/response transforms.
-* [react-native-netinfo](https://github.com/react-native-netinfo/react-native-netinfo) ⭐ 2,179 | 🐛 174 | 🌐 TypeScript | 📅 2026-02-15 - Network state and connectivity info.
+* [TanStack Query](https://github.com/TanStack/query) ⭐ 50,439 | 🐛 165 | 🌐 TypeScript | 📅 2026-10-16 - Powerful async state management and data fetching.
+* [apisauce](https://github.com/infinitered/apisauce) ⭐ 2,885 | 🐛 47 | 🌐 JavaScript | 📅 2026-06-12 - Axios with standardized errors and request/response transforms.
+* [react-native-netinfo](https://github.com/react-native-netinfo/react-native-netinfo) ⭐ 2,180 | 🐛 174 | 🌐 TypeScript | 📅 2026-02-15 - Network state and connectivity info.
 * [react-native-quick-crypto](https://github.com/margelo/react-native-quick-crypto) ⭐ 1,072 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-08 - Fast native implementation of Node's crypto module.
-* [react-native-network-logger](https://github.com/alexbrazier/react-native-network-logger) ⭐ 690 | 🐛 21 | 🌐 TypeScript | 📅 2026-06-11 - In-app HTTP request monitor.
+* [react-native-network-logger](https://github.com/alexbrazier/react-native-network-logger) ⭐ 689 | 🐛 21 | 🌐 TypeScript | 📅 2026-06-11 - In-app HTTP request monitor.
 
 ## Services & Integrations
 
-* [react-native-firebase](https://github.com/invertase/react-native-firebase) ⭐ 12,318 | 🐛 55 | 🌐 TypeScript | 📅 2026-10-14 - Well-tested, feature-rich modular Firebase implementation.
+* [react-native-firebase](https://github.com/invertase/react-native-firebase) ⭐ 12,318 | 🐛 57 | 🌐 TypeScript | 📅 2026-10-16 - Well-tested, feature-rich modular Firebase implementation.
 * [google-signin](https://github.com/react-native-google-signin/google-signin) ⭐ 3,557 | 🐛 24 | 🌐 TypeScript | 📅 2026-09-29 - Google Sign-In for React Native.
 * [react-native-app-auth](https://github.com/FormidableLabs/react-native-app-auth) ⭐ 2,251 | 🐛 163 | 🌐 Java | 📅 2026-10-06 - PKCE-compliant OAuth2 client based on AppAuth.
-* [sentry-react-native](https://github.com/getsentry/sentry-react-native) ⭐ 1,824 | 🐛 136 | 🌐 TypeScript | 📅 2026-10-15 - Official Sentry SDK for crash reporting and performance monitoring.
+* [sentry-react-native](https://github.com/getsentry/sentry-react-native) ⭐ 1,824 | 🐛 130 | 🌐 TypeScript | 📅 2026-10-15 - Official Sentry SDK for crash reporting and performance monitoring.
 
 ## Payments & Monetization
 
-* [stripe-react-native](https://github.com/stripe/stripe-react-native) ⭐ 1,428 | 🐛 203 | 🌐 TypeScript | 📅 2026-10-14 - Official Stripe SDK for payments in React Native.
-* [react-native-purchases](https://github.com/RevenueCat/react-native-purchases) ⭐ 1,215 | 🐛 88 | 🌐 TypeScript | 📅 2026-10-14 - RevenueCat SDK for in-app purchases and subscriptions.
+* [stripe-react-native](https://github.com/stripe/stripe-react-native) ⭐ 1,428 | 🐛 203 | 🌐 TypeScript | 📅 2026-10-16 - Official Stripe SDK for payments in React Native.
+* [react-native-purchases](https://github.com/RevenueCat/react-native-purchases) ⭐ 1,215 | 🐛 86 | 🌐 TypeScript | 📅 2026-10-15 - RevenueCat SDK for in-app purchases and subscriptions.
 
 ## Development Tools
 
 ### Tooling & IDE
 
-* [react-native-rename](https://github.com/junedomingo/react-native-rename) ⭐ 2,775 | 🐛 28 | 🌐 JavaScript | 📅 2026-08-04 - Rename a React Native app with one command.
-* [Re.Pack](https://github.com/callstack/repack) ⭐ 1,946 | 🐛 23 | 🌐 TypeScript | 📅 2026-10-13 - Webpack/Rspack-based toolkit with code splitting and Module Federation for React Native.
-* [Radon IDE](https://github.com/software-mansion/radon-ide) ⭐ 1,720 | 🐛 141 | 🌐 TypeScript | 📅 2026-09-10 - VSCode/Cursor extension that turns your editor into a full-featured React Native IDE with an embedded simulator.
+* [react-native-rename](https://github.com/junedomingo/react-native-rename) ⭐ 2,776 | 🐛 28 | 🌐 JavaScript | 📅 2026-08-04 - Rename a React Native app with one command.
+* [Re.Pack](https://github.com/callstack/repack) ⭐ 1,946 | 🐛 22 | 🌐 TypeScript | 📅 2026-10-15 - Webpack/Rspack-based toolkit with code splitting and Module Federation for React Native.
+* [Radon IDE](https://github.com/software-mansion/radon-ide) ⭐ 1,720 | 🐛 140 | 🌐 TypeScript | 📅 2026-09-10 - VSCode/Cursor extension that turns your editor into a full-featured React Native IDE with an embedded simulator.
 * [react-native-bundle-visualizer](https://github.com/callstack/react-native-bundle-visualizer) ⭐ 1,631 | 🐛 1 | 📅 2026-05-27 - See which packages inflate your bundle size.
-* [EAS CLI](https://github.com/expo/eas-cli) ⭐ 1,366 | 🐛 511 | 🌐 TypeScript | 📅 2026-10-15 - Build, submit, and update iOS and Android apps from the command line.
+* [EAS CLI](https://github.com/expo/eas-cli) ⭐ 1,367 | 🐛 504 | 🌐 TypeScript | 📅 2026-10-16 - Build, submit, and update iOS and Android apps from the command line.
 
 ### Debugging
 
@@ -319,25 +319,25 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 
 ### Testing
 
-* [Maestro](https://github.com/mobile-dev-inc/Maestro) ⭐ 16,066 | 🐛 500 | 🌐 Kotlin | 📅 2026-10-14 - Painless declarative E2E automation for mobile.
-* [Detox](https://github.com/wix/Detox) ⭐ 12,036 | 🐛 217 | 🌐 JavaScript | 📅 2026-10-05 - Gray-box end-to-end testing and automation framework.
-* [React Native Testing Library](https://github.com/callstack/react-native-testing-library) ⭐ 3,422 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-14 - Testing utilities that encourage good practices.
-* [Loki](https://github.com/oblador/loki) ⭐ 1,913 | 🐛 141 | 🌐 JavaScript | 📅 2024-10-12 - Visual regression testing for Storybook.
+* [Maestro](https://github.com/mobile-dev-inc/Maestro) ⭐ 16,078 | 🐛 477 | 🌐 Kotlin | 📅 2026-10-15 - Painless declarative E2E automation for mobile.
+* [Detox](https://github.com/wix/Detox) ⭐ 12,038 | 🐛 219 | 🌐 JavaScript | 📅 2026-10-05 - Gray-box end-to-end testing and automation framework.
+* [React Native Testing Library](https://github.com/callstack/react-native-testing-library) ⭐ 3,423 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-15 - Testing utilities that encourage good practices.
+* [Loki](https://github.com/oblador/loki) ⭐ 1,914 | 🐛 141 | 🌐 JavaScript | 📅 2024-10-12 - Visual regression testing for Storybook.
 
 ### Builds, Deployment & OTA Updates
 
-* [hot-updater](https://github.com/gronxb/hot-updater) ⭐ 1,769 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-15 - Self-hostable OTA update solution, a CodePush alternative.
+* [hot-updater](https://github.com/gronxb/hot-updater) ⭐ 1,770 | 🐛 17 | 🌐 TypeScript | 📅 2026-10-16 - Self-hostable OTA update solution, a CodePush alternative.
 * [EAS](https://expo.dev/eas) - Expo Application Services: cloud builds, app store submission, and OTA updates.
 * [Fastlane](https://fastlane.tools) - Automate building, screenshots, and releasing for iOS and Android.
 
 ### Building Libraries
 
-* [create-react-native-library](https://github.com/callstack/react-native-builder-bob) ⭐ 3,231 | 🐛 25 | 🌐 JavaScript | 📅 2026-10-12 - Scaffold and build React Native libraries for distribution.
-* [Nitro Modules](https://github.com/mrousavy/nitro) ⭐ 1,964 | 🐛 221 | 🌐 C++ | 📅 2026-10-14 - Insanely fast native C++, Swift, or Kotlin modules with statically compiled bindings.
+* [create-react-native-library](https://github.com/callstack/react-native-builder-bob) ⭐ 3,231 | 🐛 27 | 🌐 JavaScript | 📅 2026-10-12 - Scaffold and build React Native libraries for distribution.
+* [Nitro Modules](https://github.com/mrousavy/nitro) ⭐ 1,965 | 🐛 223 | 🌐 C++ | 📅 2026-10-15 - Insanely fast native C++, Swift, or Kotlin modules with statically compiled bindings.
 
 ## Starters & Boilerplates
 
-* [Ignite](https://github.com/infinitered/ignite) ⭐ 19,938 | 🐛 40 | 🌐 TypeScript | 📅 2026-06-07 - Infinite Red's battle-tested boilerplate with CLI and generators.
+* [Ignite](https://github.com/infinitered/ignite) ⭐ 19,942 | 🐛 40 | 🌐 TypeScript | 📅 2026-06-07 - Infinite Red's battle-tested boilerplate with CLI and generators.
 * [react-native-boilerplate](https://github.com/thecodingmachine/react-native-boilerplate) ⭐ 5,564 | 🐛 19 | 🌐 TypeScript | 📅 2026-06-30 - TheCodingMachine's template for solid, scalable applications.
 * [Expo Templates](https://docs.expo.dev/more/create-expo/) - Official Expo templates, from blank to tabs to full navigation setups.
 
@@ -345,12 +345,12 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 
 Production apps you can learn from.
 
-* [Joplin](https://github.com/laurent22/joplin) ⭐ 56,742 | 🐛 644 | 🌐 TypeScript | 📅 2026-10-14 - Privacy-focused note-taking app with sync, on every platform.
-* [Bluesky](https://github.com/bluesky-social/social-app) ⭐ 18,343 | 🐛 2,405 | 🌐 TypeScript | 📅 2026-10-15 - The Bluesky social app for web, iOS, and Android.
-* [Expensify](https://github.com/Expensify/App) ⭐ 5,061 | 🐛 2,278 | 🌐 TypeScript | 📅 2026-10-15 - New Expensify: financial collaboration, chat-centered.
-* [Artsy](https://github.com/artsy/eigen) ⭐ 3,779 | 🐛 25 | 🌐 TypeScript | 📅 2026-10-15 - The art world in your pocket.
-* [Mattermost](https://github.com/mattermost/mattermost-mobile) ⭐ 2,736 | 🐛 344 | 🌐 TypeScript | 📅 2026-10-15 - Mattermost's mobile apps.
-* [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat.ReactNative) ⭐ 2,418 | 🐛 508 | 🌐 TypeScript | 📅 2026-10-15 - Rocket.Chat's mobile client.
+* [Joplin](https://github.com/laurent22/joplin) ⭐ 56,753 | 🐛 645 | 🌐 TypeScript | 📅 2026-10-16 - Privacy-focused note-taking app with sync, on every platform.
+* [Bluesky](https://github.com/bluesky-social/social-app) ⭐ 18,348 | 🐛 2,406 | 🌐 TypeScript | 📅 2026-10-16 - The Bluesky social app for web, iOS, and Android.
+* [Expensify](https://github.com/Expensify/App) ⭐ 5,062 | 🐛 2,324 | 🌐 TypeScript | 📅 2026-10-16 - New Expensify: financial collaboration, chat-centered.
+* [Artsy](https://github.com/artsy/eigen) ⭐ 3,779 | 🐛 26 | 🌐 TypeScript | 📅 2026-10-16 - The art world in your pocket.
+* [Mattermost](https://github.com/mattermost/mattermost-mobile) ⭐ 2,736 | 🐛 343 | 🌐 TypeScript | 📅 2026-10-16 - Mattermost's mobile apps.
+* [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat.ReactNative) ⭐ 2,418 | 🐛 502 | 🌐 TypeScript | 📅 2026-10-16 - Rocket.Chat's mobile client.
 * [YouTrack Mobile](https://github.com/JetBrains/youtrack-mobile) ⚠️ Archived - JetBrains' YouTrack client for iOS and Android.
 
 ## Learning
@@ -378,4 +378,4 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
